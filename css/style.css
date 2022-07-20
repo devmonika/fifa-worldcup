@@ -94,7 +94,7 @@ section#matches-section {
 }
 
 .other-one {
-    width: 25%;
+    width: 200px;
 }
 
 section#matches-section ul {
@@ -103,7 +103,7 @@ section#matches-section ul {
     list-style: none;
     padding: 10%;
     height: 35vh;
-    width: 155px;
+    width: 180px;
     text-align: center;
 }
 
@@ -207,13 +207,20 @@ footer .menu li {
 }
 
 .social-icon {
-    visibility: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
+    list-style: none;
 }
 
+ul.social-icon li {
+    padding: 3% 2%;
+    font-size: 1.5rem;
+}
 
+ul.social-icon li a {
+    color: #fff;
+}
 
 /* blog page  */
 .blogs {
