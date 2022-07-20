@@ -1,6 +1,6 @@
 /* variable */
 :root {
-    --secondery-color: #0B4A1B;
+    --secondery-color: #184157;
 }
 
 /* font link */
@@ -215,11 +215,11 @@ footer .menu li {
 
 ul.social-icon li {
     padding: 3% 2%;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 ul.social-icon li a {
-    color: #fff;
+    color: #184157;
 }
 
 /* blog page  */
