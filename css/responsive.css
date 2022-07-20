@@ -126,6 +126,10 @@
     ul.social-icon li {
         padding: 0 3%;
     }
+
+    ul.social-icon i {
+        color: #fff;
+    }
 }
 
 
